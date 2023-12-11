@@ -1,26 +1,30 @@
 {
   "expo": {
-    "name": "Bpi",
-    "slug": "Bpi",
+    "name": "AttrAfro",
+    "slug": "AttrAfro",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon2.jpeg",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FF6348"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier":"com.example.ProjectName",
+      "googleMapsApiKey":"AIzaSyAQmKb7wLBlwqkQcahrvL8wlwWLhlRbacQ"
+
+      
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/icon2.jpeg",
+        "backgroundColor": "#FF6348"
       }
     },
     "web": {
