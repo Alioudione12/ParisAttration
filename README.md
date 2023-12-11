@@ -2,6 +2,8 @@
 
 
 ### React Native full stack cross platform application ( ios and androide )
+De Javascript et React Native pour le développement d'applications mobiles sur Android et iOS
+
 ### Screenshots
 Page d'accueil  | Page attractions  | Page Catégories |
 ------------- | ------------- | ------------- 
