@@ -1,7 +1,7 @@
 # ParisAttration 
 
 
-# React Native full stack cross platform application ( ios and androide )
+### React Native full stack cross platform application ( ios and androide )
 ### Screenshots
 Page d'accueil  | Page attractions  | Page Catégories |
 ------------- | ------------- | ------------- 
