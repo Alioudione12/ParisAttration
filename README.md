@@ -12,3 +12,5 @@ Page d'accueil  | Page attractions  | Page Catégories |
 Détails de l'attraction  | Galleries des attractions  | Map navigation |
 ------------- | ------------- | ------------- 
 <img src="3.png" alt="Logo" width=70% height=70%  >  | <img src="5.png" alt="Logo" width=70% height=70%  > | <img src="4.png" alt="Logo" width=70% height=70%  >
+
+#### React, including JSX, props, state and styles
